@@ -1,0 +1,14 @@
+# Dependencies for the multi-source LangChain RAG Q&A notebook
+# Install with: %pip install -r requirements.txt
+
+langchain
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchain-classic
+langchainhub
+faiss-cpu
+python-dotenv
+beautifulsoup4
+wikipedia
+arxiv
